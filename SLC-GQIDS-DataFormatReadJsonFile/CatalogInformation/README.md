@@ -5,7 +5,7 @@
 This package contains a GQI data source that can read JSON files.
 
 > [!TIP]
-> Easily see how to implement a Dashboard/Low Code app with this script with our [Generic File Reader GQI Tutorial](https://catalog.dataminer.services/details/f7ecd365-7bf9-406d-978f-eaca9e3aa9c2).
+> See our [Generic File Reader GQI Tutorial](https://catalog.dataminer.services/details/f7ecd365-7bf9-406d-978f-eaca9e3aa9c2) to find out how to implement a dashboard or low-code app with this script.
 
 ## Use Cases
 
