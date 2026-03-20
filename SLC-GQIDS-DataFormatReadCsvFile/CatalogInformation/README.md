@@ -5,13 +5,13 @@
 This package contains a GQI data source that can read CSV files.
 
 > [!TIP]
-> Easily see how to implement a Dashboard/Low Code app with this script with our [Generic File Reader GQI Tutorial](https://catalog.dataminer.services/details/f7ecd365-7bf9-406d-978f-eaca9e3aa9c2).
+> See our [Generic File Reader GQI Tutorial](https://catalog.dataminer.services/details/f7ecd365-7bf9-406d-978f-eaca9e3aa9c2) to find out how to implement a dashboard or low-code app with this script.
 
 ## Key Features
 
 ### Smart delimiter detection
-  
-If no delimiter is provided, GQI will detect the most common delimiter character in the header (i.e. first line) of the CSV file.
+
+If no delimiter is provided, GQI will detect the most common delimiter character in the header (i.e., first line) of the CSV file.
 
 The smart detection feature is capable of identifying delimiters only from the following set:
 
@@ -28,7 +28,7 @@ If no value is provided, the headers will retain their original capitalization a
 
 ## Type conversion
 
-The columns can be automatically parsed to a specific type by suffixing the column name in the CSV header with `::type`.
+The columns can be automatically parsed to a specific type by adding the `::type` suffix to the column name in the CSV header.
 
 Currently, the following types are supported:
 
